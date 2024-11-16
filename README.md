@@ -1,4 +1,4 @@
-### Nmae : A.Roshini
+### Name : A.Roshini
 ### Reg no : 24002364
 # EXP-2 CONTROL RELAY USING IOT CONTROLLER
 ##  AIM:
